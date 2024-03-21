@@ -1,1 +1,5 @@
 /* Place CSS styles here */
+body {
+    background-color: #8f8fff;
+    color: antiquewhite;
+    font-family: "Merriweather", serif;
