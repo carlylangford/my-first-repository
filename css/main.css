@@ -1,5 +1,14 @@
 /* Place CSS styles here */
 body {
-    background-color: #8f8fff;
-    color: antiquewhite;
+    background-color: #bdbdff;
+    color: rgb(8, 2, 37);;
     font-family: "Merriweather", serif;
+    font-size: 16px;
+}
+h1,
+h2,
+h3 {
+   color: rgb(30, 19, 85);
+   font-family: "Merriweather", serif;
+   font-size: 30px;
+}
